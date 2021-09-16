@@ -32,7 +32,7 @@ export default class Header extends Component {
                                     <Nav.Link as={Link} to='/contacts'>Contacts</Nav.Link>
                                     <Nav.Link as={Link} to='/blog'>Blog</Nav.Link>
                                 </Nav>
-                                <Form className="d-flex">
+                                <Form className="d-flex right">
                                     <FormControl
                                         type='text'
                                         placeholder='Поиск'
