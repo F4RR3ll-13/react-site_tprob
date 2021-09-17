@@ -28,7 +28,7 @@ export default class About extends Component {
                         </Col>
                         <Col sm={9}>
                             <Tab.Content className='mt-3'>
-                                <Tab.Pane eventKey='first' color='#000'>
+                                <Tab.Pane eventKey='first' bg='dark'>
                                     <img  src='https://www.freeshows.ru/i/news/img20210301_000.jpg' height='430' width='770' />
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex inventore provident impedit adipisci quia. Consequuntur, ipsa! Recusandae possimus soluta minus.</p>
                                 </Tab.Pane>
